@@ -1,4 +1,6 @@
-@author: Ryan Rodrigues, Allan Vítor e Luiz Gustavo
+![GitHub License](https://img.shields.io/github/license/HubOpsVitor/db-bikershop?style=for-the-badge)
+
+@authors: Ryan Rodrigues, Allan Vítor e Luiz Gustavo
 
 # Estudo do caso
 ## Empresa BikeShop
